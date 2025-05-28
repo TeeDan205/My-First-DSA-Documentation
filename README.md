@@ -20,5 +20,20 @@ The primary source of data used here is Dat Sale.csv and this is an open source
     2. Data Munching
        
 - SQL server (For Querying and Analysis)
-- Power Bi (For creating report)
+- Power Bi [Download](https://www.microsoft.com/en-us/download/details.aspx?id=58494) (For creating report)
 - Ms Power Point (For presentation)
+
+### Data Cleaning and Preparation
+In the initial phase of
+1. What is
+2. There
+3. Design
+
+### Explratory Data Analysis
+This dkhndlkjlasjdaskjhdaljalksdjajahc
+- What is the overall data sales
+- this is the
+- dgthhd
+
+### Data Analysis
+This is where we EDA  our basic to answer some questions
