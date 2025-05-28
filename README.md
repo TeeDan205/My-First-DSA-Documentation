@@ -42,3 +42,22 @@ This is where we EDA  our basic to answer some questions
 select A,B,C
 where A> 15
 
+```
+
+### Data Analysis
+
+
+
+![WIN_20250206_03_01_05_Pro](https://github.com/user-attachments/assets/c98e18cc-0615-40bf-a008-6853834dfc31)
+
+
+
+
+
+![WIN_20250206_03_01_30_Pro](https://github.com/user-attachments/assets/60c9b011-4eb6-4dd7-bbb2-4bac9f6f6ea9)
+
+
+
+
+
+
