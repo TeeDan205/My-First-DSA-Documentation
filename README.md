@@ -37,3 +37,8 @@ This dkhndlkjlasjdaskjhdaljalksdjajahc
 
 ### Data Analysis
 This is where we EDA  our basic to answer some questions
+
+``` SQL
+select A,B,C
+where A> 15
+
